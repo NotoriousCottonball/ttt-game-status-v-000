@@ -40,5 +40,7 @@ WIN_COMBINATIONS = [
       true
     end
   end
-  
+  #Winner Method
+  def winner(board)
+    
       
