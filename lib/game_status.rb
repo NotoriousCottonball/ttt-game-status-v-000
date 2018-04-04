@@ -44,5 +44,8 @@ WIN_COMBINATIONS = [
   def winner(board)
     if won?(board)
       board[won?(board)[2]]
+    end
+  end
+  
     
       
