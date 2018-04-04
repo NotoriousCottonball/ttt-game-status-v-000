@@ -26,5 +26,8 @@ WIN_COMBINATIONS = [
   def full?(board)
     board.all?{|index| index == "X" || index == "O"}
   end
+  #Draw Method
+  def draw?(board)
+    
   
       
