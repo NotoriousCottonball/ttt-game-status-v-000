@@ -43,5 +43,6 @@ WIN_COMBINATIONS = [
   #Winner Method
   def winner(board)
     if won?(board)
+      board
     
       
