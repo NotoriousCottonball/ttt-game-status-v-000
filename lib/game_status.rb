@@ -22,5 +22,7 @@ WIN_COMBINATIONS = [
       position_taken?(board, win_combo[0])
     end
   end
+  #Full Method
+  
   
       
