@@ -28,5 +28,5 @@ WIN_COMBINATIONS = [
         false 
       end
     end
-    
+  end
       
