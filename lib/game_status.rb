@@ -28,6 +28,6 @@ WIN_COMBINATIONS = [
   end
   #Draw Method
   def draw?(board)
-    
+    if !win?(board) && full?(board)
   
       
