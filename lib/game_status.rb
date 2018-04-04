@@ -34,5 +34,8 @@ WIN_COMBINATIONS = [
       false 
     end
   end
-  
+  #Over Method
+  def over?(board)
+    if won?(board) || draw?(board)
+      true
       
