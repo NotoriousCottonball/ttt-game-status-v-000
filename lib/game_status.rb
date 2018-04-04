@@ -29,5 +29,10 @@ WIN_COMBINATIONS = [
   #Draw Method
   def draw?(board)
     if !win?(board) && full?(board)
+      true 
+    else
+      false 
+    end
+  end
   
       
