@@ -14,3 +14,5 @@ WIN_COMBINATIONS = [
   [0,4,8], #down_diagonal
   [6,4,2], #up_diagonal
   ]
+  #Won Method
+  def
