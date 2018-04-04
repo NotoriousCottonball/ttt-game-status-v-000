@@ -17,7 +17,8 @@ WIN_COMBINATIONS = [
   #Won Method
   def won?(board)
     WIN_COMBINATIONS.each do |win_combo|
-      position_1 = win_combo[0]
-      position_2 = win_combo[1]
-      position_3 = win_combo[2]
+      position_1 = board[win_combo[0]]
+      position_2 = board[win_combo[1]]
+      position_3 = board[win_combo[2]]
+      if 
       
