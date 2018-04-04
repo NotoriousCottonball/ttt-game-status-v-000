@@ -17,4 +17,4 @@ WIN_COMBINATIONS = [
   #Won Method
   def won?(board)
     WIN_COMBINATIONS.each do |win_combo|
-      position_1 = 
+      position_1 = win_com
