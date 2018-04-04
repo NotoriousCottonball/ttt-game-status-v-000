@@ -11,7 +11,7 @@ WIN_COMBINATIONS = [
   [0,3,6] #left_vertical
   [1,4,7] #middle_veritcal
   [2,5,8] #right_vertical
-  [0,4,8] #
+  [0,4,8] #down_diagnol 
   
   
   
