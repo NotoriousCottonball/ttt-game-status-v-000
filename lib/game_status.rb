@@ -24,6 +24,6 @@ WIN_COMBINATIONS = [
   end
   #Full Method
   def full?(board)
-    board.all?
+    board.all?{|
   
       
